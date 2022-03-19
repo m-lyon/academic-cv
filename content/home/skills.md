@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -16,14 +18,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: TensorFlow, PyTorch, NumPy, pandas
+  icon: python
   icon_pack: fab
-  name: R
-- description: 100%
+  name: Python
+- description: Data Wrangling, Model Development, Visualisation
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Data Science
 - description: 10%
   icon: camera-retro
   icon_pack: fas

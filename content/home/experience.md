@@ -6,8 +6,10 @@ widget: experience
 # This file represents a page section.
 headless: true
 
+active: true
+
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -22,28 +24,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Research Software Engineer
+    company: Save Sight Institute
+    company_url: 'https://www.sydney.edu.au/save-sight-institute/'
+    company_logo: uos
+    location: Sydney
+    date_start: '2019-08-01'
+    date_end: '2020-08-01'
     description: |2-
-        Responsibilities include:
+        * Developed, tested, and documented neuroimaging processing pipelines.
+        * Lead algorithm design and optimization workflows.
+        * Consulted on neuroimaging analysis techniques and signal processing.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Neuroimaging Analyst
+    company: Sydney Neuroimaging Analysis Centre
+    company_url: 'https://www.snac.com.au/'
+    company_logo: snac
+    location: Sydney
+    date_start: '2019-08-01'
+    date_end: '2020-01-01'
+    description: |2-
+        * Developed and implemented neuroimaging analysis pipelines.
+        * Performed QC on MRI analysis.
+
+  - title: Research Software Engineer
+    company: Heart Research Institute
+    company_url: 'https://www.hri.org.au/'
+    company_logo: hri
+    location: Sydney
+    date_start: '2017-07-01'
+    date_end: '2019-07-01'
+    description: |2-
+        * Built and managed a distributed computing cluster.
+        * Developed, tested, and documented neuroimaging processing pipelines.
+        * Oversaw data ingestion and QC/QA, created dashboard visualisations.
+        * Conducted clinical research using MRI data.
 
 design:
   columns: '2'
