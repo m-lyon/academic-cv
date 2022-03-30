@@ -70,7 +70,7 @@ highlight_name: true
 I am currently a PhD student in the Machine Learning group at the University of Manchester. My research focuses on improving MRI
 data through deep learning, and incorporating geometric priors into deep learning models.
 
-Previously, I received my masters of Medical Physics from the University of Sydney, and a Bachelors of Science in Physics at the
+Previously, I received my masters of Medical Physics from the University of Sydney, and a Bachelors of Science (Honours) in Physics at the
 University of Warwick. I have experience working as a research software engineer at several research institutes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
