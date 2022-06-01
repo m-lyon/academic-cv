@@ -3,13 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Skills
 subtitle:
@@ -18,18 +18,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: TensorFlow, PyTorch, NumPy, pandas
+- description: TensorFlow, Keras, PyTorch, NumPy, pandas
   icon: python
   icon_pack: fab
   name: Python
-- description: Data Wrangling, Model Development, Visualisation
+- description: Model Development, Visualisation, Deep Learning, Computer Vision
   icon: chart-line
   icon_pack: fas
-  name: Data Science
-- description: 10%
-  icon: camera-retro
+  name: Machine Learning
+- description: Slurm, SGE, Data Pipeline Development
+  icon: database
   icon_pack: fas
-  name: Photography
+  name: Data Engineering
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
