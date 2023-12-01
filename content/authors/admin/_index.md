@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:matthew.lyon-3@postgrad.manchester.ac.uk
+  link: mailto:matthew.s.lyon@manchester.ac.uk
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=uunJ_HcAAAAJ

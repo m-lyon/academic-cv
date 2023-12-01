@@ -27,7 +27,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: matthew.lyon-3@postgrad.manchester.ac.uk
+  email: matthew.s.lyon@manchester.ac.uk
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
