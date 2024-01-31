@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Matthew Lyon # Website name
-baseURL: 'https://m-lyon.github.io/' # Website URL
+baseURL: 'https://m-lyon.github.io/'
+# baseURL: 'https://matthewlyon.co.uk/' # Website URL
 
 ############################
 ## LANGUAGE

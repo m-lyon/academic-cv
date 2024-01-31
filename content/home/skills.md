@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Skills
+title: Machine Learning
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,17 +19,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: TensorFlow, Keras, PyTorch, NumPy, pandas
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: Model Development, Visualisation, Deep Learning, Computer Vision
+  icon: laptop-code
+  icon_pack: fas
+  name: Technologies
+- description: Classification, Segmentation, Synthesis, Probabilistic Modelling, Unsupervised Learning
   icon: chart-line
   icon_pack: fas
-  name: Machine Learning
-- description: Slurm, SGE, Data Pipeline Development
-  icon: database
+  name: Tasks
+- description: CNN, ResNet, UNet, ViT, GAN, Transformer, RNN, Autoencoder
+  icon: diagram-project
   icon_pack: fas
-  name: Data Engineering
+  name: Models
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
