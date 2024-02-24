@@ -24,6 +24,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: University of Manchester
+    company_url: 'https://www.manchester.ac.uk/'
+    company_logo: uom
+    location: Manchester
+    date_start: '2022-06-01'
+    date_end:
+    description: |2-
+        * Designed and implemented data cleaning and preprocessing pipelines.
+        * Performed exploratory analysis on large time-series datasets.
+        * Lead tutorials on several machine learning courses.
+        * Graded assignments and exams for several machine learning courses.
+
   - title: Research Software Engineer
     company: Save Sight Institute
     company_url: 'https://www.sydney.edu.au/save-sight-institute/'
@@ -44,8 +57,8 @@ experience:
     date_start: '2019-08-01'
     date_end: '2020-01-01'
     description: |2-
-        * Developed and implemented neuroimaging analysis pipelines.
-        * Performed QC on MRI analysis.
+        * Developed, implemented, and led QC on neuroimaging analysis pipelines.
+        * Conducted exploratory data analyses.
 
   - title: Research Software Engineer
     company: Heart Research Institute
