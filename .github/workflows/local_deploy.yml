@@ -59,3 +59,5 @@ jobs:
           REMOTE_USER: ${{ secrets.SSH_USER }}
           REMOTE_PORT: ${{ secrets.SSH_PORT}}
           TARGET: ${{ secrets.SSH_TARGET }}
+          SCRIPT_BEFORE: |
+            echo "$PWD"; ls -la;
