@@ -18,7 +18,7 @@ doi: "10.1002/hbm.24870"
 
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Human Brain Mapping*"

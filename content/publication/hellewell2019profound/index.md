@@ -19,7 +19,7 @@ doi: "10.1038/s41398-019-0512-8"
 
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Translational Psychiatry*"

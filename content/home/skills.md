@@ -22,11 +22,11 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: Technologies
-- description: Classification, Segmentation, Synthesis, Probabilistic Modelling, Unsupervised Learning
+- description: Classification, Segmentation, Generative, Probabilistic Modelling, Unsupervised Learning
   icon: chart-line
   icon_pack: fas
   name: Tasks
-- description: CNN, ResNet, UNet, ViT, GAN, Transformer, RNN, Autoencoder
+- description: CNN, ResNet, UNet, ViT, GAN, Transformer, RNN, Autoencoder, Diffusion
   icon: diagram-project
   icon_pack: fas
   name: Models

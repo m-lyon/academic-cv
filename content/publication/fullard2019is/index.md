@@ -16,7 +16,7 @@ doi: "10.1016/j.jocn.2019.02.007"
 
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Journal of Clinical Neuroscience*"
