@@ -45,6 +45,7 @@ jobs:
   deploy:
     if: github.repository_owner == 'm-lyon'
     runs-on: ubuntu-latest
+    needs: build
     environment:
       name: local-deploy
     steps:
