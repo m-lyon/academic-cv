@@ -35,7 +35,7 @@ experience:
         * Designed and implemented data cleaning and preprocessing pipelines.
         * Performed exploratory analysis on large time-series datasets.
         * Lead tutorials on several machine learning courses.
-        * Graded assignments and exams for several machine learning courses.
+        * Developed DL architectures for high dimensional genomic time-series data.
 
   - title: Research Software Engineer
     company: Save Sight Institute
@@ -46,6 +46,7 @@ experience:
     date_end: '2020-08-01'
     description: |2-
         * Developed, tested, and documented neuroimaging processing pipelines.
+        * Deployed deep learning models into production.
         * Lead algorithm design and optimization workflows.
         * Consulted on neuroimaging analysis techniques and signal processing.
         

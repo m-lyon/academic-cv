@@ -6,7 +6,7 @@ title: Matthew Lyon
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: AI Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,6 +21,7 @@ interests:
 - Deep Learning
 - Computer Vision
 - Geometric Deep Learning
+- Generative Modelling
 - Diffusion MRI
 
 # Education to show in About widget
@@ -67,10 +68,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a PhD student in the Machine Learning group at the University of Manchester. My research focuses on improving MRI
-data through deep learning, and incorporating geometric priors into deep learning models.
+AI research scientist and software engineer with several years of experience in developing, training, and deploying machine learning systems. My research focuses on super-resolution in medical imaging data, and incorporating prior knowledge into models.
 
-Previously, I received my masters of Medical Physics from the University of Sydney, and a Bachelors of Science (Honours) in Physics at the
-University of Warwick. I have experience working as a research software engineer at several research institutes.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}
