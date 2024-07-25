@@ -43,10 +43,10 @@ jobs:
         with:
           path: repo/public
   deploy:
-    if: github.repository_owner != 'HugoBlox'
+    if: github.repository_owner == 'm-lyon'
     environment:
       name: github-pages
-      url: https://m-lyon.github.io/
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     permissions:
