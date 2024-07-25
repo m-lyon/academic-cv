@@ -37,11 +37,11 @@ jobs:
         run: |
           (cd repo; hugo --gc --minify -b "https://m-lyon.github.io/")
       - name: Generate Pagefind search index
-        run: (echo $PWD; ls; ls repo; npx pagefind --site repo/public)
+        run: npx pagefind --site repo/public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ./public
+          path: repo/public
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
